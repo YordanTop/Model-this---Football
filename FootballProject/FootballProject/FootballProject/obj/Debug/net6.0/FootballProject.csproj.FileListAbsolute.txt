@@ -1,0 +1,15 @@
+C:\Users\Dani\Desktop\FootballProject\FootballProject\FootballProject\obj\Debug\net6.0\FootballProject.csproj.AssemblyReference.cache
+C:\Users\Dani\Desktop\FootballProject\FootballProject\FootballProject\obj\Debug\net6.0\FootballProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dani\Desktop\FootballProject\FootballProject\FootballProject\obj\Debug\net6.0\FootballProject.AssemblyInfoInputs.cache
+C:\Users\Dani\Desktop\FootballProject\FootballProject\FootballProject\obj\Debug\net6.0\FootballProject.AssemblyInfo.cs
+C:\Users\Dani\Desktop\FootballProject\FootballProject\FootballProject\obj\Debug\net6.0\FootballProject.csproj.CoreCompileInputs.cache
+C:\Users\Dani\Desktop\FootballProject\FootballProject\FootballProject\bin\Debug\net6.0\FootballProject.exe
+C:\Users\Dani\Desktop\FootballProject\FootballProject\FootballProject\bin\Debug\net6.0\FootballProject.deps.json
+C:\Users\Dani\Desktop\FootballProject\FootballProject\FootballProject\bin\Debug\net6.0\FootballProject.runtimeconfig.json
+C:\Users\Dani\Desktop\FootballProject\FootballProject\FootballProject\bin\Debug\net6.0\FootballProject.dll
+C:\Users\Dani\Desktop\FootballProject\FootballProject\FootballProject\bin\Debug\net6.0\FootballProject.pdb
+C:\Users\Dani\Desktop\FootballProject\FootballProject\FootballProject\obj\Debug\net6.0\FootballProject.dll
+C:\Users\Dani\Desktop\FootballProject\FootballProject\FootballProject\obj\Debug\net6.0\refint\FootballProject.dll
+C:\Users\Dani\Desktop\FootballProject\FootballProject\FootballProject\obj\Debug\net6.0\FootballProject.pdb
+C:\Users\Dani\Desktop\FootballProject\FootballProject\FootballProject\obj\Debug\net6.0\FootballProject.genruntimeconfig.cache
+C:\Users\Dani\Desktop\FootballProject\FootballProject\FootballProject\obj\Debug\net6.0\ref\FootballProject.dll
